@@ -1,0 +1,11 @@
+{
+    "require": {
+        "psr/container": "^2.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/classes",
+            "src/Exception"
+        ]
+    }
+}
